@@ -290,6 +290,7 @@
                     this._client.osVersion = osVersion;
                     this._client.mobile = mobile;
                     this._client.cookieEnabled = (navigator.cookieEnabled);
+                    this._client.ua = navigator.userAgent;
                 }
 
                 // Screen size
