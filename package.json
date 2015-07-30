@@ -1,10 +1,10 @@
 {
   "name": "loggly-jslogger",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A Javascript client to send logs to Loggly.",
   "repository": {
     "type": "git",
-    "url": "git://github.com/loggly/loggly-jslogger.git"
+    "url": "git://github.com/world-gaming-fed/loggly-jslogger.git"
   },
   "author": "Loggly",
   "keywords": [
